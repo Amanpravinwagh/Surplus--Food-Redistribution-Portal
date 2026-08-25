@@ -1,4 +1,4 @@
-# 🍱 Surplus Food Portal
+# 🍱 Surplus Food Redistribution Portal
 
 An end-to-end web application built to eliminate local food waste and tackle hunger. **Surplus Food Portal** bridges the gap between surplus food providers (restaurants, hotels, events, and individuals) and local non-profit organizations (NGOs, shelters, and food banks). 
 
